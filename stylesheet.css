@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Goldenbook';
+    src: url('FONTSPRINGDEMO-GoldenbookExtraboldRegular.eot');
+    src: url('FONTSPRINGDEMO-GoldenbookExtraboldRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-GoldenbookExtraboldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-GoldenbookExtraboldRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-GoldenbookExtraboldRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-GoldenbookExtraboldRegular.svg#FONTSPRINGDEMO-GoldenbookExtraboldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goldenbook';
+    src: url('FONTSPRINGDEMO-GoldenbookBlackRegular.eot');
+    src: url('FONTSPRINGDEMO-GoldenbookBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-GoldenbookBlackRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-GoldenbookBlackRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-GoldenbookBlackRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-GoldenbookBlackRegular.svg#FONTSPRINGDEMO-GoldenbookBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goldenbook';
+    src: url('FONTSPRINGDEMO-GoldenbookBold.eot');
+    src: url('FONTSPRINGDEMO-GoldenbookBold.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-GoldenbookBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-GoldenbookBold.woff') format('woff'),
+        url('FONTSPRINGDEMO-GoldenbookBold.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-GoldenbookBold.svg#FONTSPRINGDEMO-GoldenbookBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goldenbook';
+    src: url('FONTSPRINGDEMO-GoldenbookHeavyRegular.eot');
+    src: url('FONTSPRINGDEMO-GoldenbookHeavyRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-GoldenbookHeavyRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-GoldenbookHeavyRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-GoldenbookHeavyRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-GoldenbookHeavyRegular.svg#FONTSPRINGDEMO-GoldenbookHeavyRegular') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goldenbook';
+    src: url('FONTSPRINGDEMO-GoldenbookLightRegular.eot');
+    src: url('FONTSPRINGDEMO-GoldenbookLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-GoldenbookLightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-GoldenbookLightRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-GoldenbookLightRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-GoldenbookLightRegular.svg#FONTSPRINGDEMO-GoldenbookLightRegular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Goldenbook';
+    src: url('FONTSPRINGDEMO-GoldenbookRegular.eot');
+    src: url('FONTSPRINGDEMO-GoldenbookRegular.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-GoldenbookRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-GoldenbookRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-GoldenbookRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-GoldenbookRegular.svg#FONTSPRINGDEMO-GoldenbookRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
